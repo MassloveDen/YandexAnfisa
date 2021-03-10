@@ -1,2 +1,2 @@
 # YandexAnfisa
-Same as Alisa
+Proggram after continue Yandex course.
